@@ -1,7 +1,7 @@
 # KyleClark-DataProjects
 Portfolio showcasing data analysis projects and technical skills.
 
-# Kyle Clark - Data Analyst Portfolio
+# Kyle Clark - Projects Portfolio
 
 **📍 Location:** San Luis Obispo, CA  
 **📧 Contact:** [kylemonroeclark@gmail.com](mailto:kylemonroeclark@gmail.com)  
