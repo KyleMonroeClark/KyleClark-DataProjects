@@ -11,7 +11,7 @@ Welcome to my data analyst portfolio! Here, you'll find examples of my work in d
 
 ### Technical Skills
 
-- **Languages & Tools**: SQL (SQL Server, MySQL), Python (Pandas, NumPy, Matplotlib), R, Excel (VBA, Complex Formulas), Power BI, Tableau
+- **Languages & Tools**: SQL (SQL Server, MySQL), Python (Pandas, NumPy, Matplotlib), R, Excel (VBA, Complex Formulas, Pivot Tables), Power BI, Tableau
 - **Specializations**: Data Visualization, Algorithmic Trading, Economic Analysis, Automation, Business Intelligence
 
 ### Projects
